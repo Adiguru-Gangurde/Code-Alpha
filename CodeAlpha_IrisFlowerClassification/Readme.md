@@ -18,3 +18,16 @@ The goal is to build a model that uses physical measurements—Sepal Length, Sep
 1. **Clone the Repo**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/iris-classification.git](https://github.com/YOUR_USERNAME/iris-classification.git)
+
+Install Dependencies
+
+Bash
+pip install pandas scikit-learn seaborn matplotlib
+Data Setup Ensure iris.csv is in the same folder as your .ipynb or .py file.
+
+Run the Model Execute the cells in your Jupyter Notebook to train the model and see the predictions.
+
+📊 Results & Evaluation
+The model performs with high accuracy, typically between 96% and 100%.
+
+The Confusion Matrix (generated in the code) shows that the model rarely confuses the species, though there is occasional overlap between Versicolor and Virginica due to their similar physical traits.

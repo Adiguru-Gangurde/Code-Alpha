@@ -13,11 +13,7 @@ The goal is to build a model that uses physical measurements—Sepal Length, Sep
 - **Algorithm**: Used **Logistic Regression** (with a high `max_iter` for stability).
 - **Visualization**: Used `Seaborn` and `Matplotlib` to create bar charts and pair plots for Exploratory Data Analysis (EDA).
 
-## 💻 Installation & Usage
 
-1. **Clone the Repo**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/iris-classification.git](https://github.com/YOUR_USERNAME/iris-classification.git)
 
 Install Dependencies
 

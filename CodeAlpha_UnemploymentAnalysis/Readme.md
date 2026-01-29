@@ -41,11 +41,7 @@ Time-Series Line Plots: Mapping the trajectory of the unemployment rate, highlig
 
 Heatmaps: Identifying seasonal trends where unemployment peaks at specific times of the year.
 
-How to Run This Project
-Clone the repository:
 
-Bash
-git clone https://github.com/your-username/unemployment-analysis-python.git
 Install dependencies:
 
 Bash

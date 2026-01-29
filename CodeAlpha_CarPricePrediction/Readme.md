@@ -36,10 +36,6 @@ The dataset contains the following key features:
 * **Mean Absolute Error**: *[Insert your result, e.g., 1.23]*
 * **R-squared Score**: *[Insert your result, e.g., 0.85]*
 
-## 💻 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/car-price-prediction.git](https://github.com/your-username/car-price-prediction.git)
 
 ```
 
@@ -62,3 +58,4 @@ python car_prediction.py
 ## 📝 Conclusion
 
 The model successfully demonstrates that features like `Present_Price` and `Fuel_Type` have a high correlation with the `Selling_Price`. Further improvements could be made by implementing ensemble methods like Random Forest or XGBoost.
+
